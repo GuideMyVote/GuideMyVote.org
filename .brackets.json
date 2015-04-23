@@ -1,0 +1,10 @@
+{
+	"useTabChar": true,
+	"tabSize": 2,
+	"softTabs": false,
+	"brackets-ruler.guideEnabled": true,
+	"brackets-ruler.guidePosition": 80,
+	"jslint.options": {
+		"node": true
+	}
+}
