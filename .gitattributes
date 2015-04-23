@@ -1,0 +1,9 @@
+*.html    text
+*.css     text
+*.less    text
+*.js      text
+*.json    text
+*.svg     text
+*.md      text
+*.txt     text
+.taunusrc text
